@@ -15,19 +15,20 @@ public class PlayerMovement : MonoBehaviour
     }
 
     // Update is called once per frame
-    void Update()
-    {
+    
+    void FixedUpdate()
+    {       
         change = Vector3.zero;
         change.x = Input.GetAxisRaw("Horizontal");
         change.y = Input.GetAxisRaw("Vertical");
-        if (change != Vector3.zero)
+
+        if (change != Vector3.zero) {
             MoveCharacter();
+        }
     }
 
     void MoveCharacter()
     {
-        myRigidBody.MovePosition(
-            transform.position + change * speed * Time.deltaTime
-        );
+        myRigidBody.MovePosition(transform.position + change.normalized * Time.deltaTime * speed);
     }
 }
