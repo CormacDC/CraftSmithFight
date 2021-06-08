@@ -7,10 +7,12 @@ public class PlayerMovement : MonoBehaviour
     public float speed;
     private Rigidbody2D myRigidBody;
     private Vector3 change;
+    private Animator animator;
 
     // Start is called before the first frame update
     void Start()
     {
+        animator = GetComponent<Animator>();
         myRigidBody = GetComponent<Rigidbody2D>();
     }
 
@@ -24,6 +26,8 @@ public class PlayerMovement : MonoBehaviour
 
         if (change != Vector3.zero) {
             MoveCharacter();
+            animator.SetFloat("moveX", change.x);
+            animator.SetFloat("moveY", change.y);
         }
     }
 
