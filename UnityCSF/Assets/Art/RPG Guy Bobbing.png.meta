@@ -1,43 +1,43 @@
 fileFormatVersion: 2
-guid: 85da361eb2a5d2546aa0e8b26b265541
+guid: 665788ec0d62b994a90817e2501be9e2
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 6592543565010873036
-    second: RPG Guy-1.png_0
+      213: -9132153899168987530
+    second: RPG Guy Bobbing_0
   - first:
-      213: -6422449255781681448
-    second: RPG Guy-1.png_1
+      213: 8933685169634289826
+    second: RPG Guy Bobbing_1
   - first:
-      213: -4015113680794692030
-    second: RPG Guy-1.png_2
+      213: 4835326859257612963
+    second: RPG Guy Bobbing_2
   - first:
-      213: -7812474285415998811
-    second: RPG Guy-1.png_3
+      213: -3059697242185972052
+    second: RPG Guy Bobbing_3
   - first:
-      213: 5209304827983152261
-    second: RPG Guy-1.png_4
+      213: -240920518716028755
+    second: RPG Guy Bobbing_4
   - first:
-      213: 9173446114095164861
-    second: RPG Guy-1.png_5
+      213: 7368820158722449252
+    second: RPG Guy Bobbing_5
   - first:
-      213: -5190866496367503619
-    second: RPG Guy-1.png_6
+      213: 4670844945382730564
+    second: RPG Guy Bobbing_6
   - first:
-      213: 3052802575791149632
-    second: RPG Guy-1.png_7
+      213: -1478438928455065846
+    second: RPG Guy Bobbing_7
   - first:
-      213: -9187624728802870980
-    second: RPG Guy-1.png_8
+      213: 5168165893214689276
+    second: RPG Guy Bobbing_8
   - first:
-      213: 5440976840845671206
-    second: RPG Guy-1.png_9
+      213: 2218108739954952947
+    second: RPG Guy Bobbing_9
   - first:
-      213: -4823735931157446281
-    second: RPG Guy-1.png_10
+      213: 9051423035205172129
+    second: RPG Guy Bobbing_10
   - first:
-      213: -2158243788008657045
-    second: RPG Guy-1.png_11
+      213: 8433890086857334720
+    second: RPG Guy Bobbing_11
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -163,7 +163,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: RPG Guy-1.png_0
+      name: RPG Guy Bobbing_0
       rect:
         serializedVersion: 2
         x: 0
@@ -177,14 +177,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ccaa2ce817b6d7b50800000000000000
-      internalID: 6592543565010873036
+      spriteID: 67685d5b962144180800000000000000
+      internalID: -9132153899168987530
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: RPG Guy-1.png_1
+      name: RPG Guy Bobbing_1
       rect:
         serializedVersion: 2
         x: 16
@@ -198,14 +198,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 8d63921fd60eed6a0800000000000000
-      internalID: -6422449255781681448
+      spriteID: 2a82a3f3453dafb70800000000000000
+      internalID: 8933685169634289826
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: RPG Guy-1.png_2
+      name: RPG Guy Bobbing_2
       rect:
         serializedVersion: 2
         x: 32
@@ -219,14 +219,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 246db6b51637748c0800000000000000
-      internalID: -4015113680794692030
+      spriteID: 3aa84fae8288a1340800000000000000
+      internalID: 4835326859257612963
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: RPG Guy-1.png_3
+      name: RPG Guy Bobbing_3
       rect:
         serializedVersion: 2
         x: 0
@@ -240,14 +240,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 5aad7e89704849390800000000000000
-      internalID: -7812474285415998811
+      spriteID: ca64347b195c985d0800000000000000
+      internalID: -3059697242185972052
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: RPG Guy-1.png_4
+      name: RPG Guy Bobbing_4
       rect:
         serializedVersion: 2
         x: 16
@@ -261,14 +261,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 584c9a6142b2b4840800000000000000
-      internalID: 5209304827983152261
+      spriteID: da804de801418acf0800000000000000
+      internalID: -240920518716028755
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: RPG Guy-1.png_5
+      name: RPG Guy Bobbing_5
       rect:
         serializedVersion: 2
         x: 32
@@ -282,14 +282,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: dbd64d443a0ae4f70800000000000000
-      internalID: 9173446114095164861
+      spriteID: 46f936684ee434660800000000000000
+      internalID: 7368820158722449252
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: RPG Guy-1.png_6
+      name: RPG Guy Bobbing_6
       rect:
         serializedVersion: 2
         x: 0
@@ -303,14 +303,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: df6d9878c6656f7b0800000000000000
-      internalID: -5190866496367503619
+      spriteID: 44b677a0bbc22d040800000000000000
+      internalID: 4670844945382730564
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: RPG Guy-1.png_7
+      name: RPG Guy Bobbing_7
       rect:
         serializedVersion: 2
         x: 16
@@ -324,14 +324,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 042dd6ba4cbbd5a20800000000000000
-      internalID: 3052802575791149632
+      spriteID: a0f935fa0a78b7be0800000000000000
+      internalID: -1478438928455065846
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: RPG Guy-1.png_8
+      name: RPG Guy Bobbing_8
       rect:
         serializedVersion: 2
         x: 32
@@ -345,14 +345,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c393c1ebcfffe7080800000000000000
-      internalID: -9187624728802870980
+      spriteID: cf7d95d6f7309b740800000000000000
+      internalID: 5168165893214689276
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: RPG Guy-1.png_9
+      name: RPG Guy Bobbing_9
       rect:
         serializedVersion: 2
         x: 0
@@ -366,14 +366,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 62bbbb5fb9b328b40800000000000000
-      internalID: 5440976840845671206
+      spriteID: 3fa443e952e48ce10800000000000000
+      internalID: 2218108739954952947
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: RPG Guy-1.png_10
+      name: RPG Guy Bobbing_10
       rect:
         serializedVersion: 2
         x: 16
@@ -387,14 +387,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 77182155ab5ae0db0800000000000000
-      internalID: -4823735931157446281
+      spriteID: 1ab31354b4d1d9d70800000000000000
+      internalID: 9051423035205172129
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: RPG Guy-1.png_11
+      name: RPG Guy Bobbing_11
       rect:
         serializedVersion: 2
         x: 32
@@ -408,8 +408,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b6fec0da5b06c02e0800000000000000
-      internalID: -2158243788008657045
+      spriteID: 0cfd1dd69523b0570800000000000000
+      internalID: 8433890086857334720
       vertices: []
       indices: 
       edges: []
